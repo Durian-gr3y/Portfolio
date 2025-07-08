@@ -22,6 +22,6 @@ An interactive Power BI dashboard showing medal counts and performance compariso
 
 ## 🚀 Live Website
 Check out my live portfolio at:  
-👉 [https://ethanaoko.github.io](https://ethanaoko.github.io)
+👉 [https://durian-gr3y.github.io/Portfolio/](https://durian-gr3y.github.io/Portfolio/)
 
 ---
